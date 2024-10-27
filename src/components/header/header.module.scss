@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #99c;
+  font-size: large;
+
+  .header-navigation {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    ul {
+      display: flex;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      
+      li {
+        padding: 10px;
+      }
+    }
+  }
+}

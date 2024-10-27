@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #111;
+}
+
+.contacts{
+    align-self: center;
+    margin-right: 15px;
+}
